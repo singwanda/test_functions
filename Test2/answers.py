@@ -1,3 +1,4 @@
+
 def hello():
 	name = str(input("Enter your name: "))
 	if name:
@@ -10,7 +11,6 @@ def hello():
 
 
 hello()
-
 #
 is_hot = False
 
